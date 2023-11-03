@@ -11,5 +11,8 @@
   The dataset was downloaded from Kaggle.
   https://www.kaggle.com/datasets/jarredpriester/ichiro-suzuki-mlb-career-stats
 
+- Additional visualizations focusing on overall offensive years done using [Tableau](https://public.tableau.com/app/profile/stephanie.l.lopez/viz/ichiros_through_the_years/ichiro_through_the_years)
+ 
+
 
 
